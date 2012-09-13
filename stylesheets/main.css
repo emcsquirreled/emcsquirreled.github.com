@@ -28,6 +28,15 @@ h3 {
 	font-size: 16pt;
 }
 
+a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+}
+
 body {
 	margin: 0px;
 	padding: 0px 10px;
