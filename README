@@ -1,0 +1,27 @@
+To upload the page to Github, you will need to open a terminal and run the following commands:
+
+1) Log in as emcsquirrled
+2) cd emcsquirrled.github.com
+3) git status
+
+Confirm that you are on the 'master' branch, and that there is nothing to commit.
+If you are not on branch 'master':
+
+3.2) git checkout master
+
+If there is something to commit:
+
+3.3) git add *
+3.4) git commit -m 'updated lasertag page'
+
+Regardless of the optional steps, continue with the upload:
+
+4) git pull origin master
+
+The passkey is the same thing as the login password.
+
+If there are any merge conflicts, contact Mason Fabel (mason.fabel@earthlink.net) for more specific help BEFORE continuing. Otherwise,
+
+5) git push origin master
+
+And it is live! Check http://emcsquirreled.github.com to confirm that the changes were successful.
