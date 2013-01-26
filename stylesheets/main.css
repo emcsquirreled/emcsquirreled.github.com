@@ -29,7 +29,7 @@ h3 {
 }
 
 a {
-    color: #FFF;
+    color: #9F9;
     text-decoration: none;
 }
 
@@ -65,7 +65,7 @@ nav.main ul {
 nav.main li {
 	float: left;
 	height: 100%;
-	width: 50%;
+	width: 16.66%;
 }
 
 nav.main a {
@@ -126,6 +126,14 @@ header .teamnum {
 
 #content {
 	border-bottom: 1px solid #555;
+}
+
+#content h3 {
+	color: #FFF;
+}
+
+#content h4 {
+	color: #9F9;
 }
 
 footer {
