@@ -12,7 +12,7 @@ If you are not on branch 'master':
 If there is something to commit:
 
 3.3) git add *
-3.4) git commit -m 'updated lasertag page'
+3.4) git commit -m 'preparing to push website'
 
 Regardless of the optional steps, continue with the upload:
 
@@ -20,7 +20,7 @@ Regardless of the optional steps, continue with the upload:
 
 The passkey is the same thing as the login password.
 
-If there are any merge conflicts, contact Mason Fabel (mason.fabel@earthlink.net) for more specific help BEFORE continuing. Otherwise,
+If there are any merge conflicts, contact Mason Fabel for more specific help BEFORE continuing. Otherwise,
 
 5) git push origin master
 
